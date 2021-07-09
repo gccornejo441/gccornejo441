@@ -1,1 +1,1 @@
-No specific stack...just like the code.
+A NextJS, React, math and reading enthusiast.
